@@ -180,10 +180,12 @@ img {
     color: white;
     font-size: 8px;
     bottom: 2%;
-    left: 45%;
-    text-align: center;
-    /* font-family: 'Poppins', sans-serif; */
+    left: 43%;
     font-weight: 100;
+}
+
+#copyright p {
+    text-align: center;
 }
 
 .scroll-down i {
